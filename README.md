@@ -23,10 +23,8 @@ State management is handled via **React Context** and tasks are saved in **local
 
 ## Setup Instructions
 
-1. **Clone the repository**
+1. **download file**
 
-git clone <your-repo-url>
-cd my-frontend-app
 
 2. **Install the dependencies**
 
