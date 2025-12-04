@@ -30,9 +30,7 @@ cd my-frontend-app
 
 2. **Install the dependencies**
 
-npm install next react react-dom
-npm install @mui/material @mui/icons-material @emotion/react @emotion/styled
-npm install react-hook-form @hookform/resolvers zod
+npm install
   
 4. **Run the development server**
    npm run dev
