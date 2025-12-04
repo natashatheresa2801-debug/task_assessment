@@ -29,12 +29,15 @@ git clone <your-repo-url>
 cd my-frontend-app
 
 2. **Install the dependencies**
-   npm install
+
+npm install next react react-dom
+npm install @mui/material @mui/icons-material @emotion/react @emotion/styled
+npm install react-hook-form @hookform/resolvers zod
   
-3. **Run the development server**
+4. **Run the development server**
    npm run dev
   
-4. **Open your browser at http://localhost:3000 to view the app.**
+5. **Open your browser at http://localhost:3000 to view the app.**
   
 
 ## Public API Used
